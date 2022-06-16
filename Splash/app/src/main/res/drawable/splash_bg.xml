@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Cor de Background -->
+    <item android:drawable="@color/white"/>
+    <!-- Arquivo de imagem -->
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/welcome__image"/>
+    </item>
+</layer-list>
